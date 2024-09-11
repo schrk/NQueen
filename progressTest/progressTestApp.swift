@@ -11,7 +11,7 @@ import SwiftUI
 struct progressTestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Chess()
         }
     }
 }

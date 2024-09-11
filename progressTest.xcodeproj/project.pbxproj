@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BAC1603B2C7FB31000571B0B /* progressTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC1603A2C7FB31000571B0B /* progressTestApp.swift */; };
-		BAC1603D2C7FB31000571B0B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC1603C2C7FB31000571B0B /* ContentView.swift */; };
+		BAC1603D2C7FB31000571B0B /* ChessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC1603C2C7FB31000571B0B /* ChessView.swift */; };
 		BAC1603F2C7FB31200571B0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAC1603E2C7FB31200571B0B /* Assets.xcassets */; };
 		BAC160432C7FB31200571B0B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAC160422C7FB31200571B0B /* Preview Assets.xcassets */; };
 		BAC1604D2C7FB31200571B0B /* progressTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC1604C2C7FB31200571B0B /* progressTestTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		BAC160372C7FB31000571B0B /* progressTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = progressTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC1603A2C7FB31000571B0B /* progressTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = progressTestApp.swift; sourceTree = "<group>"; };
-		BAC1603C2C7FB31000571B0B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BAC1603C2C7FB31000571B0B /* ChessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessView.swift; sourceTree = "<group>"; };
 		BAC1603E2C7FB31200571B0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAC160402C7FB31200571B0B /* progressTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = progressTest.entitlements; sourceTree = "<group>"; };
 		BAC160422C7FB31200571B0B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				BAC1603A2C7FB31000571B0B /* progressTestApp.swift */,
-				BAC1603C2C7FB31000571B0B /* ContentView.swift */,
+				BAC1603C2C7FB31000571B0B /* ChessView.swift */,
 				BAC1603E2C7FB31200571B0B /* Assets.xcassets */,
 				BAC160402C7FB31200571B0B /* progressTest.entitlements */,
 				BAC160412C7FB31200571B0B /* Preview Content */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BAC1603D2C7FB31000571B0B /* ContentView.swift in Sources */,
+				BAC1603D2C7FB31000571B0B /* ChessView.swift in Sources */,
 				BAC1603B2C7FB31000571B0B /* progressTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
